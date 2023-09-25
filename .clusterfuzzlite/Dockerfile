@@ -1,6 +1,3 @@
-clone https://github.com/google/oss-fuzz.git my-git-repo
-WORKDIR my-git-repo
-COPY ./.clusterfuzzlite/build.sh $SRC/
 # Copyright 2017 Google Inc.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
